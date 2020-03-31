@@ -1,6 +1,7 @@
 # consultar_dni_flutter
 
-A new Flutter project.
+Aplicacion en flutter que permite consultar cualquier DNI en Perú
+
 
 ## Getting Started
 
